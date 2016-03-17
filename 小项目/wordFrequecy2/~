@@ -1,0 +1,9 @@
+#include <stdio.h>
+#define F(N) (N)*2
+#define F2(N) N*2
+int main(int argc, char *argv[])
+{
+	printf("%d\N",F(8+9));	
+	printf("%d",F2(8+9));	
+	return 0;
+}
