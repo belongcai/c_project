@@ -1,0 +1,7 @@
+<Projects version="2.0">
+	<Project active="1">test.cfp</Project>
+	<File active="1">craps.c</File>
+	<File active="0">..\random\random\random.c</File>
+	<File active="0">..\random\random\random.h</File>
+	<File active="0">genlib.h</File>
+</Projects>
