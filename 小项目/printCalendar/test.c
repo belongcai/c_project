@@ -1,0 +1,7 @@
+#include <stdio.h>
+#include"calendar.h"
+int main(int argc, char *argv[])
+{
+	calendar();	
+	return 0;
+}
